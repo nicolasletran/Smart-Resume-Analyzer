@@ -1,0 +1,3 @@
+Looking for a software intern with experience in Python, SQL, and Docker.
+Knowledge of Linux and Git is required.
+Machine learning experience is a plus.

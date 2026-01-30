@@ -1,0 +1,3 @@
+﻿We are looking for a C developer with experience in Git and Linux.
+The candidate should be familiar with Python and SQL.
+Knowledge of data analysis and machine learning is a plus.
