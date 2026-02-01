@@ -1,0 +1,18 @@
+﻿Job Title: Backend Python Developer
+
+
+Job Description:
+We are seeking a backend developer proficient in Python, SQL, Django, Flask, and REST APIs. 
+Experience with cloud platforms (AWS, Azure), Docker, and unit testing is required.
+
+
+Responsibilities:
+- Build and maintain scalable backend services.
+- Integrate databases and APIs.
+- Collaborate with frontend developers for full-stack solutions.
+
+
+Requirements:
+- Strong Python programming skills.
+- Familiarity with relational databases and ORM.
+- Knowledge of containerization and cloud deployment.
