@@ -28,7 +28,7 @@ Built with **Python**, **Streamlit**, **BERT embeddings**, and **FPDF**.
 
 ---
 
-## Getting Started
+## Getting Started: Use sample_resume and sample_job file from data for examples
 
 ### Requirements
 
