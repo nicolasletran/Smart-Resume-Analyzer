@@ -1,32 +1,39 @@
 # Smart Resume Analyzer 🚀
 
-**Smart Resume Analyzer** is an AI-powered tool that analyzes your resume against a job description, providing:
+**Smart Resume Analyzer** is an AI-powered tool that evaluates your resume against a job description, providing actionable insights to help you improve your job applications.
 
-- **Text similarity** between resume and job description
-- **Skill match score**
-- **Final match score** with verdict (Low / Moderate / High)
-- **Missing skills** with clickable learning resources
+It helps you:  
 
-Built with **Python**, **Streamlit**, and **Sentence Transformers**.
+- Compare **text similarity** between your resume and the job description  
+- Calculate **skill match score**  
+- Generate a **final match score** with an easy-to-read verdict (Low / Moderate / High)  
+- Identify **missing skills** and provide clickable **learning resources**  
+- Suggest **resume improvements** based on skill gaps  
+- Visualize **skill coverage** in an interactive radar chart  
+- Download a **PDF report** summarizing the analysis  
 
----
-
-## **Features**
-
-- Upload **TXT or PDF resume** and **job description**  
-- Semantic text similarity using **BERT embeddings**  
-- Skill extraction and gap analysis  
-- Suggested resources for missing skills  
-- Clean, interactive **Streamlit UI**  
+Built with **Python**, **Streamlit**, **BERT embeddings**, and **FPDF**.
 
 ---
 
-## **Getting Started**
+## Features
 
-### **Requirements**
+- Upload **.txt, .pdf, or .docx** resumes and job descriptions  
+- Semantic text similarity using **Sentence Transformers**  
+- Extract and analyze skills using NLP  
+- Provide learning resources for missing skills  
+- Interactive **Streamlit dashboard** with charts and explanations  
+- Generate a **PDF report** of your analysis  
+- Resume improvement suggestions to optimize alignment with job requirements  
 
-Python 3.10+  
-Install required packages:
+---
+
+## Getting Started
+
+### Requirements
+
+- Python 3.10+  
+- Install required packages:
 
 ```bash
 pip install -r requirements.txt
@@ -39,11 +46,13 @@ Open the browser at http://localhost:8501
 
 Usage
 
-Upload your resume (.txt recommended)
+Usage:
 
-Upload a job description (.txt)
+Upload your resume (.txt recommended, also supports .pdf and .docx)
 
-View:
+Upload a job description (.txt recommended, also supports .pdf and .docx)
+
+View results:
 
 Text similarity score
 
@@ -51,7 +60,13 @@ Skill match score
 
 Final score & verdict
 
-Missing skills & suggested resources
+Missing skills & suggested learning resources
+
+Radar chart showing skill coverage
+
+Resume improvement suggestions
+
+Optionally, download a PDF report of your results
 
 Folder Structure:
 Smart-Resume-Analyzer/
@@ -63,11 +78,12 @@ Smart-Resume-Analyzer/
 ├─ skills.py
 ├─ gap_analysis.py
 ├─ scorer.py
+├─ recommendations.py
 ├─ requirements.txt
 └─ data/
     ├─ sample_resume.txt
     └─ sample_job.txt
-Notes
+
 
 PDF resumes may not extract correctly if generated from Google Docs; TXT is recommended
 
