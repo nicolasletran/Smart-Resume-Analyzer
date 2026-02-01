@@ -1,0 +1,20 @@
+﻿John Doe
+Email: johndoe@example.com
+Phone: 123-456-7890
+
+
+Professional Summary:
+Experienced software developer with strong skills in Python, Java, SQL, and web development. 
+Proficient in HTML, CSS, JavaScript, and modern frameworks like React. 
+Familiar with Git version control and Docker containerization. 
+
+
+Work Experience:
+Software Engineer at TechCorp (2019-2023)
+- Developed backend APIs using Python and SQL.
+- Built responsive web applications using JavaScript, HTML, CSS, and React.
+- Collaborated with teams using Git and Docker.
+
+
+Education:
+Bachelor of Science in Computer Science, University of XYZ

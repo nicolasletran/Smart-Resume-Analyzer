@@ -1,0 +1,20 @@
+﻿Job Title: Full Stack Software Developer
+
+
+Job Description:
+We are looking for a full stack software developer with experience in Python and Java. 
+The candidate should be proficient in SQL databases, JavaScript frameworks (React or Angular), 
+and frontend technologies like HTML and CSS. Knowledge of Git, Docker, and container orchestration 
+is a plus.
+
+
+Responsibilities:
+- Develop and maintain web applications.
+- Work with backend APIs and SQL databases.
+- Collaborate with cross-functional teams using version control and containers.
+
+
+Requirements:
+- Bachelor’s degree in Computer Science or related field.
+- Strong problem-solving and coding skills.
+- Familiarity with modern web frameworks and DevOps practices.
