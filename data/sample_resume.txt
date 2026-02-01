@@ -1,3 +1,3 @@
-Computer Science student with experience in Python, C, and SQL.
-Built command-line applications and worked with Git and Linux.
-Interested in data analysis and machine learning.
+Computer Science student with experience in Python, C, SQL, Git, Linux.
+Built command-line applications and data analysis projects.
+Interested in machine learning and software engineering.

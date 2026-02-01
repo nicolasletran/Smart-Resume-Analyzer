@@ -1,3 +1,2 @@
-Looking for a software intern with experience in Python, SQL, and Docker.
-Knowledge of Linux and Git is required.
-Machine learning experience is a plus.
+We are seeking a Software Engineering Intern with experience in Python, Git,
+Docker, and basic machine learning concepts.
