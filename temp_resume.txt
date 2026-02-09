@@ -1,0 +1,19 @@
+﻿Dana White
+Email: dana.white@example.com
+Phone: 567-890-1234
+
+
+Professional Summary:
+Creative graphic designer with expertise in Adobe Photoshop, Illustrator, InDesign, and Figma. 
+Skilled in branding, typography, digital illustration, and UI/UX design.
+
+
+Work Experience:
+Graphic Designer at Creative Studio (2018-2024)
+- Designed marketing materials, logos, and web graphics.
+- Created UI mockups and prototypes using Figma and Adobe XD.
+- Collaborated with clients to implement brand guidelines.
+
+
+Education:
+BA in Graphic Design, University of Arts
